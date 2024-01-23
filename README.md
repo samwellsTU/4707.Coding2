@@ -45,10 +45,10 @@ Your `MIDIengine` class should include:
 1. `✓ MIDIEngine constructor is the correct type`
 2. `✓ MIDIengine takes 2 parameters to make a new instance`
 3. `✓ MIDIengine has a property called 'input'`
-4. `✓ MIDIengine has a property called 'output'`\
+4. `✓ MIDIengine has a property called 'output'`
 5. `✓ MIDIengine has a property called 'running'`
 6. `✓ .enable() method updates the property "running"`
-7. `✓ You can make two different instances of MIDIengine`\
+7. `✓ You can make two different instances of MIDIengine`
 8. `✓ MIDI Engine enables correctly`
 9. `✓ MIDI Engine disables correctly`
 10. `✓ .printInfo() displays the correct text`
